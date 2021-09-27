@@ -26,7 +26,6 @@ Specification :
 
 
 What works:
-
     
     QE/CI Graphics
     CPU Power Management
@@ -38,10 +37,13 @@ What works:
     All USB Ports
 
 
-Kext Intel® Wi-Fi 6 AX200 : 
+Intel® Wi-Fi 6 AX200 Kext:
+
     https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.0.0
 
-Credits
+
+CreditsI:
 
     https://github.com/OpenIntelWireless
+    https://dortania.github.io/
     
