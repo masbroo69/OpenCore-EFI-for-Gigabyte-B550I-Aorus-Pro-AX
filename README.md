@@ -22,7 +22,7 @@ Specification :
 - MacOS: 10.16
 
 
-[EFI.zip](https://github.com/masbroo69/OpenCore-EFI-for-Gigabyte-B550I-Aorus-Pro-AX/files/7238595/EFI.zip)
+[EFI OpenCore 0.6.2](https://github.com/masbroo69/OpenCore-EFI-for-Gigabyte-B550I-Aorus-Pro-AX/files/7238595/EFI.zip)
 
 
 What works:
