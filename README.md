@@ -18,7 +18,24 @@ Specification :
 - CPU Cooler:	Cryorig C7G-Noctua NFA9x14
 - Case:	ZS-Case A4DC V2 Volume 4.4 Liters
 - PSU: Flex U1 600W Platinum
-
-Versions :
 - OpenCore: 0.6.2
 - MacOS: 10.16
+
+What works:
+
+    Audio (alcid=3)
+    Ethernet
+    USB
+    Wi-Fi
+    Bluetooth
+    iMessage, FaceTime
+
+Known issues:
+
+    Partially-working virtualization (only VirtualBox & Parallels Dekstop 13.1.0 or below)
+    3.5mm Jack microphone (haven't tested)
+
+Credits
+
+    everyone developing for the hackintosh community
+    the dortania team
