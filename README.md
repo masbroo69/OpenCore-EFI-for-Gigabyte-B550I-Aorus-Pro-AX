@@ -1,4 +1,4 @@
-# Hackintosh OpenCore EFI for Gigabyte B550I Aorus Pro AX
+# Hackintosh OpenCore for Gigabyte B550I Aorus Pro AX
 
 ![Screen Shot 2021-09-28 at 00 43 53](https://user-images.githubusercontent.com/28827754/134966538-90e1a201-1905-43a6-b78c-37412ee273d1.png)
 
