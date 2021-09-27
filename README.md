@@ -21,21 +21,27 @@ Specification :
 - OpenCore: 0.6.2
 - MacOS: 10.16
 
+
+[EFI.zip](https://github.com/masbroo69/OpenCore-EFI-for-Gigabyte-B550I-Aorus-Pro-AX/files/7238595/EFI.zip)
+
+
 What works:
 
-    Audio (alcid=3)
-    Ethernet
-    USB
-    Wi-Fi
-    Bluetooth
-    iMessage, FaceTime
+    
+    QE/CI Graphics
+    CPU Power Management
+    Shutdown, Restart and Sleep
+    Rear Jack and Front Jack Audio
+    LAN Ethernet
+    Wifi : Intel® Wi-Fi 6 AX200
+    2x Mini DisplayPort and 1x DisplayPort
+    All USB Ports
 
-Known issues:
 
-    Partially-working virtualization (only VirtualBox & Parallels Dekstop 13.1.0 or below)
-    3.5mm Jack microphone (haven't tested)
+Kext Intel® Wi-Fi 6 AX200 : 
+    https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.0.0
 
 Credits
 
-    everyone developing for the hackintosh community
-    the dortania team
+    https://github.com/OpenIntelWireless
+    
