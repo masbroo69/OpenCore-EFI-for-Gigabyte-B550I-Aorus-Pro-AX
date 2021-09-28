@@ -18,7 +18,7 @@ Specification :
 - CPU Cooler: Cryorig C7G-Noctua NFA9x14
 - Case:	ZS-Case A4DC V2 Volume 4.4 Liters
 - PSU: Flex U1 600W Platinum
-- OpenCore: 0.6.2
+- OpenCore: 0.7.3
 - MacOS: 10.16
 
 
