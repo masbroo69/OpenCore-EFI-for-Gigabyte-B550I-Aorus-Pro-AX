@@ -2,7 +2,7 @@
 
 ![Screen Shot 2021-09-28 at 00 43 53](https://user-images.githubusercontent.com/28827754/134966538-90e1a201-1905-43a6-b78c-37412ee273d1.png)
 
-This repository provides the basic EFI folder to run macOS Big Sur Version 11.6 (Build 20G165) on Gigabyte B550I Aorus Pro AX motherboard. The default provided currently using a Ryzen 5 3600 6 Cores CPU and GPU Dell AMD Radeon RX550 (Lexa Chipset). This is intended as a reference and to share improvements for similar build, not as an out of the box EFI to download.
+This repository provides the basic EFI folder to run macOS Big Sur Version 11.6 (Build 20G165) on Gigabyte B550I Aorus Pro AX motherboard. The default provided currently using a Ryzen 5 3600 6 Cores CPU and Dell GPU AMD Radeon RX550 (Lexa Chipset). This is intended as a reference and to share improvements for similar build, not as an out of the box EFI to download.
 It is highly recommended to start with a vanilla OpenCore and following OpenCore Vanilla Guide first.
 
 Specification :
