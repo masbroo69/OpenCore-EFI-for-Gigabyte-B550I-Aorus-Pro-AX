@@ -38,6 +38,7 @@ Intel® Wi-Fi 6 AX200 Kext:
 
     https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.0.0
 
+![Screen Shot 2021-09-28 at 14 36 58](https://user-images.githubusercontent.com/28827754/135048768-0425c88a-0523-43bc-96b3-e78252323a2e.png)
 
 Credits:
 
